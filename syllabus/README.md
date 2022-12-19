@@ -10,15 +10,19 @@
 ## Course Overview
 
 **Course Description**
-Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course provides an introduction to natural language processing, linguistic phenomena, and our attempts to analyze them using modern deep learning approaches. We cover a wide range of concepts with a focus on practical applications such as information extraction, machine translation, sentiment analysis, and summarization. The focus of this course prioritizes practical application over theory. Each week, the course is centered on Python notebooks that include exercises and code examples. The asynchronous lectures provide a foundation to build upon in the live sessions.
+
+Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course provides an introduction to natural language processing, linguistic phenomena, and our attempts to analyze them using modern deep learning approaches. We cover a wide range of concepts with a focus on practical applications such as information extraction, machine translation, sentiment analysis, and summarization. The focus of this course prioritizes practical application over theory. Each week, the course is centered on Python notebooks that include exercises and code examples. The asynchronous lectures provide a foundation to build upon in the live sessions.  We expect students to review the async material before attending their live session.
+
 
 **Course Prerequisites**
+
 * [MIDS 207 (Machine Learning)](https://www.ischool.berkeley.edu/courses/datasci/207): We assume you know what gradient descent is.  We review simple linear classifiers and softmax at a high level, but make sure you've at least heard of these! You should also be comfortable with linear algebra, which we use for vector representations and when we discuss deep learning.
 * Language: All assignments are in Python using Jupyter notebooks, Google Colab, NumPy, TensorFlow, and Keras.
 * Time:  There are three to four substantial assignments in this course as well as a term project.  Make sure you give yourself enough time to be successful! In particular, you may be in for a rough semester if you have other significant commitments at work or home, or take both this course and any of 210 (Capstone), 261, or 271.
 
 
 **Course Goals and Objectives**
+
 By the completion of this course, students will be able to:
 * Understand and describe multiple facets of linguistic phenomena related to natural language processing.
 * Describe fundamental concepts, techniques, problems, and modern approaches in the domain of natural language processing (NLP).
@@ -30,6 +34,7 @@ By the completion of this course, students will be able to:
 
 
 **Communication and Resources**
+
 * Course website: [GitHub datasci-w266/2023-spring-main](../../../)
 * [Ed Discussion](https://edstem.org): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
 * Email list for course staff (expect a somewhat slower response here): [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)

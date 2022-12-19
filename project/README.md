@@ -13,9 +13,9 @@ In addition to programming assignments, students will complete a final project t
 The project is expected to be significantly more work than each of the assignments, as you’ll need to do planning and research as well as implement much of the code framework to process data, run experiments, generate plots, etc. How to manage all of this? Start early! (and, ask lots of questions!)
 
 We’ll set several milestones to check in along the way:
-- [2%] **Project Proposal**
+- [1%] **Project Proposal**
 - [0%] **Milestone (optional)**
-- [98%] **Write-Up and Final Presentation**
+- [99%] **Write-Up and Final Presentation**
 
 
 ### Our Expectations of You
@@ -59,10 +59,11 @@ Volume of work (built into the other components):
 
 We'll score each dimension by:
 - Missing: 0%
-- Weak: 40%
-- Satisfactory: 70%
-- Strong: 80%
-- Near-publishable: 100%
+- Severe Issues: 1% - 69%
+- Needs more work/thought: 70% - 82%
+- Satisfactory: 83% - 88%
+- Strong: 89% - 94%
+- Near-publishable: 95% - 100%
 
 We anticipate most students receiving a Satisfactory grade on most components.
 
@@ -155,7 +156,7 @@ This will be a final report in the style of a research paper. Aim for 4-6 pages 
 
 **Privacy:** If you don't want us to release your report publicly, please indicate that in the form below.
 
-Please submit your PDF (and your project's code) to your course GitHub and then complete [this form](https://forms.gle).
+Please submit your PDF (and your project's code) to your course GitHub if working alone or to a team repo if in a group and then complete [this form](https://forms.gle).
 
 We will be providing feedback to teams based on the rubric above.  This will take us some time (potentially up to a month after the deadline) and likely term grades will be released ahead of that feedback.
 
