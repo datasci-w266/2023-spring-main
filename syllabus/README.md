@@ -36,7 +36,7 @@ By the completion of this course, students will be able to:
 **Communication and Resources**
 
 * Course website: [GitHub datasci-w266/2023-spring-main](../../../)
-* [Ed Discussion](https://edstem.org): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
+* [Ed Discussion](https://edstem.org/us/join/Pvv2qu): We'll use this for collective Q&A, and this will be the fastest way to reach the course staff. Note that you can post anonymously, or make posts visible only to instructors for private questions.
 * Email list for course staff (expect a somewhat slower response here): [mids-nlp-instructors@googlegroups.com](mailto:mids-nlp-instructors@googlegroups.com)
 
 
@@ -52,13 +52,15 @@ By the completion of this course, students will be able to:
 **Teaching Staff Office Hours**
 
 * **Daniel Cer**: Monday at noon PST
-* **Jennifer Zhu**: Thursday at 6:30pm PST
-* **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Natalie Ahn**: Wednesday at 6pm PST
-* **Peter Grabowski**: Tuesday immediately after his live session
-* **Mark Butler**: Friday at 5pm PST
-* **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Rajiv Nair**: Monday at 5pm PST
+* **Peter Grabowski**: Tuesday at 1pm PST
+* **Gurdit Chahal**: Wednesday at 2:30pm PST
+* **Natalie Ahn**: Wednesday at 6pm PST
+* **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
+* **Jennifer Zhu**: Thursday at 6:30pm PST
+* **Mark Butler**: Friday at 5pm PST
+
+
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -87,7 +89,7 @@ Office hours are for the whole class; students from any section are welcome to a
     <li>Google Cloud
   </ul></td>
   <td>Jan&nbsp;9</td>
-  <td>Jan&nbsp;14</td>
+  <td>Jan&nbsp;15</td>
   <td>0%</td>
 </tr>
 <tr>
@@ -137,7 +139,7 @@ Office hours are for the whole class; students from any section are welcome to a
 </tr>
 </table>
 
-Your assignment grade report can be found at [https://w266grades.appspot.com](https://w266grades.appspot.com).
+Your assignment grade report can be found at [https://w266grades.appspot.com](https://w266grades.appspot.com).  We will make an announcement on Ed Discussion when grades are available.
 
 
 
@@ -256,7 +258,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* Assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folde)]
+### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1vv_NtdNMPF80pCTgAvQEgedMWkvxtBIf?usp=sharing)]
 
 ### Deliverables
 
@@ -278,7 +280,7 @@ will be released around the last live session of the week and due approximately 
     <li>Google Cloud
   </ul></td>
   <td>Jan&nbsp;9</td>
-  <td>Jan&nbsp;14</td>
+  <td>Jan&nbsp;15</td>
 </tr
 
 
