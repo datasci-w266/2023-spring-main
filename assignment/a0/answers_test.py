@@ -10,7 +10,6 @@ class AnswersTest(unittest.TestCase):
             'competing_worries',
             'email',
             'first_name',
-            'general_questions',
             'grade_A-',
             'grade_A',
             'grade_B',
@@ -22,11 +21,10 @@ class AnswersTest(unittest.TestCase):
             'logistics_approach',
             'main_components',
             'past_hard_deadline_grade',
-            'private_questions',
             'project_components']
 
     ANSWER_HASHES = {
-        'async_source': 'af14f', 'beyond_late_days': '712b8', 'competing_worries': '306a5', 'general_questions': '3dc52', 'grade_A': '7a80b', 'grade_A-': 'b5fa3', 'grade_B': 'b9885', 'grade_B+': 'af75c', 'late_days': '9386a', 'late_days_per': '5ddcb', 'late_penalty': '15fde', 'main_components': '87d41', 'past_hard_deadline_grade': 'e4012', 'private_questions': 'a048f', 'project_components': '9f392'}
+        'async_source': 'af14f', 'beyond_late_days': '712b8', 'competing_worries': '306a5', 'grade_A': '7a80b', 'grade_A-': 'b5fa3', 'grade_B': 'b9885', 'grade_B+': 'af75c', 'late_days': '9386a', 'late_days_per': '5ddcb', 'late_penalty': '15fde', 'main_components': '87d41', 'past_hard_deadline_grade': 'e4012', 'project_components': '9f392'}
 
     def setUp(self):
         with open('answers', 'r') as f:
