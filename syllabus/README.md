@@ -52,13 +52,13 @@ By the completion of this course, students will be able to:
 **Teaching Staff Office Hours**
 
 * **Daniel Cer**: Monday at noon PST
-* **Rajiv Nair**: Monday at 5pm PST
+* **Rajiv Nair**: Monday at 4pm PST
 * **Peter Grabowski**: Tuesday at 1pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
 * **Natalie Ahn**: Wednesday at 6pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
 * **Jennifer Zhu**: Thursday at 5:30pm PST
-* **Mark Butler**: Friday at 5pm PST
+* **Mark Butler**: Friday at 4pm PST
 
 
 
