@@ -341,7 +341,7 @@ will be released around the last live session of the week and due approximately 
   </ul></td>
   <td><ul>
   <li>Read: <a href="https://www.technologyreview.com/s/602094/ais-language-problem/" target="_blank">AI’s Language Problem (Technology Review)</a>
-  <li>Read: <a href="http://nautil.us/issue/54/the-unspoken/the-rise-and-fall-of-the-english-sentence" target="_blank">The Rise and Fall of the English Sentence</a>
+  <li>Read: <a href="https://getpocket.com/explore/item/the-rise-and-fall-of-the-english-sentence" target="_blank">The Rise and Fall of the English Sentence</a>
   <li>Skim: <a href="http://www.nltk.org/book/ch01.html" target="_blank">NLTK book chapter 1 (python and basics)</a>
   <li>Skim: <a href="http://www.nltk.org/book/ch02.html" target="_blank">NLTK book chapter 2 (data resources)</a>
   <li><em>Optional:</em> <a href="http://www.newyorker.com/magazine/2007/04/16/the-interpreter-2" target="_blank">The Interpreter (New Yorker)</a>
