@@ -419,6 +419,8 @@ will be released around the last live session of the week and due approximately 
   <td><ul>
   <li>Read: <a href="https://arxiv.org/pdf/1910.10683.pdf" target="_blank">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a> (Raffel et. al. 2019)
   <li><em>Skim:</em> <a href="https://arxiv.org/pdf/2005.14165.pdf" target="_blank">Language Models are Few Shot Learners</a> (Brown et. al. 2020)
+  <li><em>Skim:</em> <a href="https://arxiv.org/pdf/2107.13586.pdf" target="_blank">Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing</a> (Liu et. al. 2021)
+  <li><em>Skim:</em> <a href="https://arxiv.org/pdf/2203.02155.pdf" target="_blank">Training language models to follow instructions with human feedback</a> (Ouyang et. al. 2022)
   </ul>
   </td>
 </tr>
