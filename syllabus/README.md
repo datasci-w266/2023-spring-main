@@ -303,6 +303,18 @@ will be released around the last live session of the week and due approximately 
   <td>Feb&nbsp;12</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Multiclass Classification
+    <li>Summarization
+	<li>Question Answering
+  </ul></td>
+  <td>Feb&nbsp;17</td>
+  <td>Mar&nbsp;5</td>
+</tr>
+
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
   <td>
@@ -311,6 +323,7 @@ will be released around the last live session of the week and due approximately 
   <td></td>
   <td>Feb&nbsp;18</td>
 </tr>
+
 
 
 <tr><!--- Project Reports -->
