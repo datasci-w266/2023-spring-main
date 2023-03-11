@@ -324,6 +324,15 @@ will be released around the last live session of the week and due approximately 
   <td>Feb&nbsp;18</td>
 </tr>
 
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Image Captioning
+  </ul></td>
+  <td>Mar&nbsp;10</td>
+  <td>Mar&nbsp;26</td>
+</tr>
 
 
 <tr><!--- Project Reports -->
@@ -333,6 +342,7 @@ will be released around the last live session of the week and due approximately 
   <td></td>
   <td><br>Due Apr&nbsp;15<br><strong>(hard deadline)</strong></td>
 </tr>
+
 
 <tr><!--- Project Presentations -->
   <td><strong><a href="../project/#presentations" target="_blank">Project&nbsp;Presentations</a></strong></td>
