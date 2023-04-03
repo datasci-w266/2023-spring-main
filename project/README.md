@@ -134,7 +134,7 @@ For the milestone, your writeup should have sections similar to the following, i
 - **Results and discussion** (for your baseline model, though feel free to include material for anything else you’ve done)
 - **Next Steps** section for work you plan to do before submitting the final version (you’ll remove this section and replace it with your conclusions, final results and analysis in your final report)
 
-The easiest way to write your report is LaTeX; the standard ACL template is available [here](http://acl2020.org/downloads/acl2020-templates.zip) (or, on Overleaf [here](https://www.overleaf.com/latex/templates/acl-2020-proceedings-template/zsrkcwjptpcd)). However, you’re welcome to typeset in Microsoft Word, Google Docs, or the editor of your choice as long as you can export to PDF.
+The easiest way to write your report is LaTeX; the standard ACL template is available [here](http://acl2023.org/downloads/acl2023.zip) (or, on Overleaf [here](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp) or in Word [here](http://acl2023.org/downloads/acl2023.docx)). However, you’re welcome to typeset in Microsoft Word, Google Docs, or the editor of your choice as long as you can export to PDF.
 
 You should also share your code with us via GitHub.  Just include a link to your GitHub.
 
@@ -146,7 +146,7 @@ Expect that your group will give a short (~5 min) presentation summarizing your 
 
 ## Final Submission
 
-This will be a final report in the style of a research paper. Aim for 4-6 pages in length, or somewhere between an ACL [short paper](https://acl2020.org/calls/papers/#short-papers) and a [long paper](https://acl2020.org/calls/papers/#long-papers), with sections similar to the following:
+This will be a final report in the style of a research paper. Aim for 4-6 pages in length, or somewhere between an ACL [short paper and a long paper](https://2023.aclweb.org/calls/main_conference/#paper-types-and-formats), with sections similar to the following:
 - **Abstract**
 - **Introduction** (motivation for your work)
 - **Background** (literature review, or related work)
@@ -156,7 +156,7 @@ This will be a final report in the style of a research paper. Aim for 4-6 pages 
 
 **Privacy:** If you don't want us to release your report publicly, please indicate that in the form below.
 
-Please submit your PDF (and your project's code) to your course GitHub if working alone or to a team repo if in a group and then complete [this form](https://forms.gle).
+Please submit your PDF (and your project's code) to your course GitHub if working alone or to a team repo if in a group and then complete [this form](https://forms.gle/siFmfbpKCryiez8LA).
 
 We will be providing feedback to teams based on the rubric above.  This will take us some time (potentially up to a month after the deadline) and likely term grades will be released ahead of that feedback.
 
