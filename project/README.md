@@ -134,7 +134,7 @@ For the milestone, your writeup should have sections similar to the following, i
 - **Results and discussion** (for your baseline model, though feel free to include material for anything else you’ve done)
 - **Next Steps** section for work you plan to do before submitting the final version (you’ll remove this section and replace it with your conclusions, final results and analysis in your final report)
 
-The easiest way to write your report is LaTeX; the standard ACL template is available [here](http://acl2023.org/downloads/acl2023.zip) (or, on Overleaf [here](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp) or in Word [here](http://acl2023.org/downloads/acl2023.docx)). However, you’re welcome to typeset in Microsoft Word, Google Docs, or the editor of your choice as long as you can export to PDF.
+The easiest way to write your report is LaTeX; the standard ACL template is available [here](http://2023.aclweb.org/downloads/acl2023.zip) (or, on Overleaf [here](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp) or in Word [here](http://2023.aclweb.org/downloads/acl2023.docx)). However, you’re welcome to typeset in Microsoft Word, Google Docs, or the editor of your choice as long as you can export to PDF.
 
 You should also share your code with us via GitHub.  Just include a link to your GitHub.
 
