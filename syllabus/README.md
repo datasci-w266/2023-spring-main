@@ -134,7 +134,7 @@ Office hours are for the whole class; students from any section are welcome to a
   Final Project
   <td><strong><a href="../project" target="_blank">Final Project Guidelines</a></strong></td>
   <td></td>
-  <td>Apr&nbsp;15</td>
+  <td>Apr&nbsp;16</td>
   <td>55%</td>
 </tr>
 </table>
@@ -340,7 +340,7 @@ will be released around the last live session of the week and due approximately 
   </td>
   <td></td>
   <td></td>
-  <td><br>Due Apr&nbsp;15<br><strong>(hard deadline)</strong></td>
+  <td><br>Extended to Apr&nbsp;16<br><strong>(hard deadline)</strong></td>
 </tr>
 
 
